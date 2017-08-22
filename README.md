@@ -20,3 +20,7 @@ De tekst van je Issue is geschreven in MarkDown. Dat betekent dat gewone tekst v
 
 ## Gebruik van labels
 De beheerders kunnen labels toevoegen. Die helpen om op te volgen wat de status is van de melding.
+
+
+## "Populaire" issues
+Als je iets een goed idee vindt, of ergens óók last van hebt, dan kan je je instemming laten blijken door bij de opmerking een smiley uit te kiezen, bijvoorbeeld een duim omhoog.
