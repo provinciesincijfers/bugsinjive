@@ -15,7 +15,7 @@ Voor je van start gaat, heb je een account nodig. Die kan je [hier](https://gith
 ## Een issue posten
 Je kan [hier](https://github.com/provinciesincijfers/bugsinjive/issues/new) rechtsreeks een issue aanmaken. Maar je kan natuurlijk best even kijken of het probleem niet al eerder is opgelost. ALs je naar [Issues](https://github.com/provinciesincijfers/bugsinjive/issues) gaat, krijg je standaard een overzicht van alle open issues. In het zoekvenster zie je dat dit gegenereerd wordt door de zoekterm "is:issue is:open". Hier kan je een zoekterm toevoegen. Verwijder "is:open" indien je ook wil zoeken in reeds afgesloten Issues.
 
-De tekst van je Issue is geschreven in MarkDown. Dat betekent dat gewone tekst vrij mooi weergegeven wordt, maar ook dat je veel meer lay-out kan weergeven. Een overzicht van veelgebruikte lay-out [vind je hier](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Dat is vooral handig om lange links mooier weer te geven. Afbeeldingen kan je gewoon plakken. Je krijgt dan een regeltje code te zien. Om te zien hoe je post eruit gaat zien, klik op Preview.
+De tekst van je Issue is geschreven in MarkDown. Dat betekent dat gewone tekst vrij mooi weergegeven wordt, maar ook dat je veel meer lay-out kan weergeven. Een overzicht van veelgebruikte lay-out [vind je hier](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Dat is vooral handig om lange links mooier weer te geven. Afbeeldingen kan je gewoon plakken, bijlagen gewoon slepen. Je krijgt dan een regeltje code te zien. Om te zien hoe je post eruit gaat zien, klik op Preview.
 
 
 ## Gebruik van labels
