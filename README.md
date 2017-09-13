@@ -12,9 +12,12 @@ Het is de bedoeling dat wie een "Issue" post hier zo goed mogelijk omschrijft wa
 Voor je van start gaat, heb je een account nodig. Die kan je [hier](https://github.com/join) maken.
 
 
-## Een issue posten
-Je kan [hier](https://github.com/provinciesincijfers/bugsinjive/issues/new) rechtsreeks een issue aanmaken. Maar je kan natuurlijk best even kijken of het probleem niet al eerder is opgelost. ALs je naar [Issues](https://github.com/provinciesincijfers/bugsinjive/issues) gaat, krijg je standaard een overzicht van alle open issues. In het zoekvenster zie je dat dit gegenereerd wordt door de zoekterm "is:issue is:open". Hier kan je een zoekterm toevoegen. Verwijder "is:open" indien je ook wil zoeken in reeds afgesloten Issues.
+## Issues doorzoeken
+Voor je een Issue post, kan je beter even zoeken of het probleem niet al eerder werd opgelost. Als je naar [Issues](https://github.com/provinciesincijfers/bugsinjive/issues) gaat, krijg je standaard een overzicht van alle open issues. In het zoekvenster zie je dat dit gegenereerd wordt door de zoekterm "is:issue is:open". Hier kan je een zoekterm toevoegen. Verwijder "is:open" indien je ook wil zoeken in reeds afgesloten Issues.
+Je kan op je eigen isssues zoeken met "author:JouwNaam", of op issues waar je op hebt gecommentarieerd met de term "commenter:JouwNaam". Een volledig overzicht van zoekmethoden [vind je hier](https://help.github.com/articles/searching-issues-and-pull-requests/).
 
+## Issues maken
+Je kan [hier](https://github.com/provinciesincijfers/bugsinjive/issues/new) rechtsreeks een issue aanmaken. 
 De tekst van je Issue is geschreven in MarkDown. Dat betekent dat gewone tekst vrij mooi weergegeven wordt, maar ook dat je veel meer lay-out kan weergeven. Een overzicht van veelgebruikte lay-out [vind je hier](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Dat is vooral handig om lange links mooier weer te geven. Afbeeldingen kan je gewoon plakken, bijlagen gewoon slepen. Je krijgt dan een regeltje code te zien. Om te zien hoe je post eruit gaat zien, klik op Preview.
 
 
