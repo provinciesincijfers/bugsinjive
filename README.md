@@ -7,6 +7,8 @@ Github is een website om samen te werken rond technologie. Deze pagina bestaat e
 
 Het is de bedoeling dat wie een "Issue" post hier zo goed mogelijk omschrijft wat precies het probleem is. De issue-beheerder geeft dan aan of het aan ABF doorgegeven moet worden. Idealiter volgt ABF deze issues, en krijgt automatisch een melding wanneer een nieuwe issue aan hen is toegekend. Als een probleem is opgelost, dan kunnen zij de Issue sluiten.
 
+Op deze manier onstaat een doorzoekbaar archief van problemen, waarmee we gemakkelijker kunnen opvolgen. Hetzelfde probleem hoeft geen meerdere keren opgelost te worden, omdat je de eerdere oplossing terug kunt vinden.
+
 
 ## Een account maken
 Voor je van start gaat, heb je een account nodig. Die kan je [hier](https://github.com/join) maken.
