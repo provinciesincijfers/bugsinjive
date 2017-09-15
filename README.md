@@ -21,8 +21,8 @@ Je kan [hier](https://github.com/provinciesincijfers/bugsinjive/issues/new) rech
 De tekst van je Issue is geschreven in MarkDown. Dat betekent dat gewone tekst vrij mooi weergegeven wordt, maar ook dat je veel meer lay-out kan weergeven. Een overzicht van veelgebruikte lay-out [vind je hier](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Dat is vooral handig om lange links mooier weer te geven. Afbeeldingen kan je gewoon plakken, bijlagen gewoon slepen. Je krijgt dan een regeltje code te zien. Om te zien hoe je post eruit gaat zien, klik op Preview.
 
 
-## Gebruik van labels
-De beheerders kunnen labels toevoegen. Die helpen om op te volgen wat de status is van de melding.
+## Gebruik van labels en levensloop van issues
+Beheerders kunnen labels toevoegen. Die helpen om op te volgen wat de status is van de melding. De levensloop van issues wordt zo georganiseerd. [Hier wordt uitgelegd hoe dat precies verloopt](https://github.com/provinciesincijfers/bugsinjive/blob/master/levensloopissues.md).
 
 
 ## "Populaire" issues
