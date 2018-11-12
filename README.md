@@ -22,10 +22,15 @@ Je kan op je eigen issues zoeken met "author:JouwNaam", of op issues waar je op 
 Je kan [hier](https://github.com/provinciesincijfers/bugsinjive/issues/new) rechtsreeks een Issue aanmaken. 
 De tekst van je Issue is geschreven in MarkDown. Dat betekent dat gewone tekst vrij mooi weergegeven wordt, maar ook dat je veel meer lay-out kan weergeven. Een overzicht van veelgebruikte lay-out [vind je hier](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Dat is vooral handig om lange links mooier weer te geven. Afbeeldingen kan je gewoon plakken, bijlagen gewoon slepen. Je krijgt dan een regeltje code te zien. Om te zien hoe je post eruit gaat zien, klik op Preview.
 
+## Reageren op Issues
+Je kan reageren op bestaande issues. Als je je GitHub account koppelt aan een e-mail adres en daar melding ontvangt over issues, dan kan je ook je reacties plaatsen via e-mail.
 
 ## Gebruik van labels en levensloop van issues
 Beheerders kunnen labels toevoegen. Die helpen om op te volgen wat de status is van de melding. De levensloop van issues wordt zo georganiseerd. [Hier wordt uitgelegd hoe dat precies verloopt](https://github.com/provinciesincijfers/bugsinjive/blob/master/levensloopissues.md).
 
+## Relatie met helpdeskvragen bij ABF
+ABF kan noodoplossingen geven die beter niet door een breder publiek gekend zijn. Of je vraag kan gewoon zijn voor wat uitleg bij iets dat werkt. Dan zijn vragen in deze publieke tracker niet geschikt. Wellicht is het beste deze tracker enkel te gebruiken voor moeilijkere vragen die enkel op langere termijn opgelost kunnen worden.
+
 
 ## "Populaire" issues
-Als je iets een goed idee vindt, of ergens óók last van hebt, dan kan je je instemming laten blijken door bij de opmerking een smiley uit te kiezen, bijvoorbeeld een duim omhoog.
+Als je iets een goed idee vindt, of ergens óók last van hebt, dan kan je je instemming laten blijken door bij de opmerking een emoticon uit te kiezen, bijvoorbeeld een duim omhoog.
