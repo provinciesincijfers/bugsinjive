@@ -11,7 +11,7 @@ Op deze manier onstaat een doorzoekbaar archief van problemen, waarmee we gemakk
 
 
 ## Een account maken
-Voor je van start gaat, heb je een account nodig. Die kan je [hier](https://github.com/join) maken.
+Voor je van start gaat, heb je een account nodig. Die kan je [hier](https://github.com/join) maken. Koppel het aan je e-mail van het werk, want je zult interessante meldingen per mail krijgen. Je bent ingelogd als je rechtsboven het scherm een icoontje ziet dat "Signed in as JouwNaam" zegt als je er op klikt. 
 
 
 ## Issues doorzoeken
@@ -19,7 +19,12 @@ Voor je een Issue post, kan je beter even zoeken of het probleem niet al eerder 
 Je kan op je eigen issues zoeken met "author:JouwNaam", of op issues waar je op hebt gecommentarieerd met de term "commenter:JouwNaam". Een volledig overzicht van zoekmethoden [vind je hier](https://help.github.com/articles/searching-issues-and-pull-requests/).
 
 ## Issues maken
-Je kan [hier](https://github.com/provinciesincijfers/bugsinjive/issues/new) rechtsreeks een Issue aanmaken. 
+* Als je een probleem hebt met de Swing software zelf, **of niet goed weet waar de oorzaak van de fout zit**, maak dan een nieuw Issue aan in [bugsinjive](https://github.com/provinciesincijfers/bugsinjive/issues/new).
+* Heb je een probleem dat specifiek met data uit de connector te maken heeft, doe het dan bij [connectorbeheer](
+https://github.com/provinciesincijfers/connectorbeheer/issues/new).
+* Wil je nieuwe data aanvragen, doe het dan via [data-wishlist](
+https://github.com/provinciesincijfers/data-wishlist/issues/new).
+
 De tekst van je Issue is geschreven in MarkDown. Dat betekent dat gewone tekst vrij mooi weergegeven wordt, maar ook dat je veel meer lay-out kan weergeven. Een overzicht van veelgebruikte lay-out [vind je hier](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Dat is vooral handig om lange links mooier weer te geven. Afbeeldingen kan je gewoon plakken, bijlagen gewoon slepen. Je krijgt dan een regeltje code te zien. Om te zien hoe je post eruit gaat zien, klik op Preview.
 
 ## Reageren op Issues
